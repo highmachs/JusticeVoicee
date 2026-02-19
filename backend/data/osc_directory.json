@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Sakhi One Stop Centre, Patna",
+        "address": "Near Gandhi Maidan, Patna, Bihar",
+        "phone": "+91-9988776655",
+        "lat": 25.611,
+        "lng": 85.144
+    },
+    {
+        "id": 2,
+        "name": "Sakhi One Stop Centre, Lucknow",
+        "address": "Hazratganj, Lucknow, Uttar Pradesh",
+        "phone": "+91-8877665544",
+        "lat": 26.846,
+        "lng": 80.946
+    },
+    {
+        "id": 3,
+        "name": "Sakhi One Stop Centre, Jaipur",
+        "address": "MI Road, Jaipur, Rajasthan",
+        "phone": "+91-7766554433",
+        "lat": 26.912,
+        "lng": 75.787
+    }
+]

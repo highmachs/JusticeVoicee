@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jamshedpur Women's College Legal Aid Clinic",
+    "type": "Legal Aid",
+    "state": "Jharkhand",
+    "district": "East Singhbhum",
+    "city": "Jamshedpur",
+    "address": "Bistupur, Jamshedpur, Jharkhand 831001",
+    "phone": "0657-2249105",
+    "lat": 22.8046,
+    "lng": 86.2029,
+    "services": ["Free Legal Advice", "PWDVA Filing"]
+  },
+  {
+    "name": "Guria Swayam Sevi Sansthan",
+    "type": "NGO",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "city": "Varanasi",
+    "address": "S-8/395, Khajuhi, Varanasi, UP (Active in Bihar Border)",
+    "phone": "+91-542-2504253",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "services": ["Rescue", "Rehabilitation", "Legal Support"]
+  },
+  {
+    "name": "Nari Gunjan",
+    "type": "NGO",
+    "state": "Bihar",
+    "district": "Patna",
+    "city": "Patna",
+    "address": "Patna, Bihar",
+    "phone": "0612-2270403",
+    "lat": 25.5941,
+    "lng": 85.1376,
+    "services": ["Dalit Women Rights", "Domestic Violence Support"]
+  },
+  {
+    "name": "Mahila Thana (Women's Police Station) Ranchi",
+    "type": "Police",
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "city": "Ranchi",
+    "address": "Near Kotwali PS, Ranchi, Jharkhand",
+    "phone": "100",
+    "lat": 23.3441,
+    "lng": 85.3096,
+    "services": ["FIR Filing", "Immediate Protection"]
+  },
+  {
+    "name": "One Stop Centre (Sakhi) - Patna",
+    "type": "Government",
+    "state": "Bihar",
+    "district": "Patna",
+    "city": "Patna",
+    "address": "PMCH Campus, Patna",
+    "phone": "181",
+    "lat": 25.6154,
+    "lng": 85.1511,
+    "services": ["Medical Aid", "Legal Aid", "Shelter", "Police Help"]
+  },
+  {
+     "name": "District Legal Services Authority (DLSA) Dhanbad",
+     "type": "Legal Aid",
+     "state": "Jharkhand",
+     "district": "Dhanbad",
+     "city": "Dhanbad",
+     "address": "Civil Court, Dhanbad",
+     "phone": "0326-2312601",
+     "lat": 23.7957,
+     "lng": 86.4304,
+     "services": ["Free Lawyer", "Court Representation"]
+  }
+]
