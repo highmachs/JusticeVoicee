@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.env.local
+.env.production
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+frontend_web/dist/
+frontend_web/.vite/
+*.tsbuildinfo
+
+# FAISS index (auto-generated)
+backend/data/faiss_index/
+
+# Mobile
+mobile_app/android/
+mobile_app/ios/
+mobile_app/.expo/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Package locks (keep package.json, ignore locks for cleaner repo)
+# package-lock.json
+
+# Misc
+*.bak
+*.tmp
+.gemini/
